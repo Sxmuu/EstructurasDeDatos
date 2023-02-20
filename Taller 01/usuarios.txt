@@ -1,0 +1,14 @@
+Nombre: Samuel Peña
+Documento: 213412653
+Telefono: 3182334211
+Departamento: Cundinamarca
+Ciudad: Bogota
+Direccion: Cra 7 #40-62
+Correo: penags@javeriana.edu.co
+Nombre: David Rodriguez
+Documento: 210931243
+Telefono: 3124423221
+Departamento: Madrid
+Ciudad: Cundinamarca
+Direccion: Calle 3 #4-32
+Correo: davir@gmail.com
